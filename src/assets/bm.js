@@ -91,37 +91,6 @@ export default {
             ]
         },
         {
-            name: "UP",
-            icon: "",
-            links: [
-                {
-                    name: "CS dept",
-                    link: "http://www.cs.up.ac.za"
-                },
-                {
-                    name: "Blackboard",
-                    link: "http://clickup.up.ac.za"
-                },
-                {
-                    name: "Tuks",
-                    link: "http://www.up.ac.za"
-                },
-                {
-                    name: "UP Login",
-                    link: "https://www1.up.ac.za/wcportal/faces/student.jspx"
-                },
-                {
-                    name: "Ebook Search",
-                    link:
-                        "https://cse.google.com/cse/home?cx=00661023013169144559:a1-kkiboeco"
-                },
-                {
-                    name: "Library Genises",
-                    link: "https://libgen.pw"
-                }
-            ]
-        },
-        {
             name: "Dota 2",
             icon: "",
             links: [
@@ -140,48 +109,6 @@ export default {
                 {
                     name: "Dota 2 Blog",
                     link: "http://blog.dota2.com/?l=english"
-                }
-            ]
-        },
-        {
-            name: "FinInfo",
-            links: [
-                {
-                    name: "Standard Bank",
-                    link: "https://experience.standardbank.co.za/#/login"
-                },
-                {
-                    name: "Satrix",
-                    link: "https://www.satrixnow.co.za/"
-                },
-                {
-                    name: "Ice3x",
-                    link: "https://ice3x.com/"
-                }
-            ]
-        },
-        {
-            name: "BT",
-            links: [
-                {
-                    name: "Axxess",
-                    link: "https://www.axxess.co.za/hosting/linux-shared"
-                },
-                {
-                    name: "PhpMyAdmin",
-                    link: "http://localhost:8080/phpmyadmin"
-                },
-                {
-                    name: "Gitlab",
-                    link: "https://gitlab.com/users/sign_in"
-                },
-                {
-                    name: "Barktree",
-                    link: "https://barktree.co.za"
-                },
-                {
-                    name: "DevOps",
-                    link: "https://www.devops.barktree.co.za"
                 }
             ]
         }
