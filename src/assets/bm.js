@@ -1,0 +1,189 @@
+export default {
+    bookmarks: [
+        {
+            name: "Reddit",
+            icon: "fa-reddit",
+            links: [
+                {
+                    name: "r/Dota2",
+                    link: "http://www.reddit.com/r/Dota2"
+                },
+                {
+                    name: "r/Unixporn",
+                    link: "http://www.reddit.com/r/unixporn"
+                },
+                {
+                    name: "r/TalesFromRetail",
+                    link: "http://www.reddit.com/r/talesfromretail"
+                },
+                {
+                    name: "r/ProgrammerHumour",
+                    link: "https://www.reddit.com/r/ProgrammerHumor"
+                },
+                {
+                    name: "Random Subreddit",
+                    link: "https://www.reddit.com/r/random"
+                }
+            ]
+        },
+        {
+            name: "Misc Dev",
+            icon: "",
+            links: [
+                {
+                    name: "Github pages demo",
+                    link: "https://russelldutton.github.io"
+                },
+                {
+                    name: "Arch Wiki",
+                    link: "https://wiki.archlinux.org/"
+                }
+            ]
+        },
+        {
+            name: "Web dev",
+            icon: "fa-code",
+            links: [
+                {
+                    name: "Bootstrap",
+                    link:
+                        "https://getbootstrap.com/docs/4.0/getting-started/introduction/"
+                },
+                {
+                    name: "Font Awesome",
+                    link: "https://fontawesome.com/icons"
+                },
+                {
+                    name: "Angular 2+",
+                    link: "https://angular.io/docs"
+                },
+                {
+                    name: "W3 Schools",
+                    link: "http://www.w3schools.com"
+                },
+                {
+                    name: "Angular Material",
+                    link: "https://material.angular.io/components/categories"
+                }
+            ]
+        },
+        {
+            name: "Music",
+            icon: "fa-headphones",
+            links: [
+                {
+                    name: "Mellow Mix",
+                    link:
+                        "https://soundcloud.com/russell9704/sets/melodic-and-relaxing"
+                },
+                {
+                    name: "Mellow Mix 2",
+                    link: "https://soundcloud.com/russell9704/sets/mellow-mix-2"
+                },
+                {
+                    name: "MrSuicideSheep",
+                    link: "https://www.youtube.com/user/MrSuicideSheep"
+                },
+                {
+                    name: "ChilloutDeer",
+                    link: "https://www.youtube.com/chilloutdeer"
+                }
+            ]
+        },
+        {
+            name: "UP",
+            icon: "",
+            links: [
+                {
+                    name: "CS dept",
+                    link: "http://www.cs.up.ac.za"
+                },
+                {
+                    name: "Blackboard",
+                    link: "http://clickup.up.ac.za"
+                },
+                {
+                    name: "Tuks",
+                    link: "http://www.up.ac.za"
+                },
+                {
+                    name: "UP Login",
+                    link: "https://www1.up.ac.za/wcportal/faces/student.jspx"
+                },
+                {
+                    name: "Ebook Search",
+                    link:
+                        "https://cse.google.com/cse/home?cx=00661023013169144559:a1-kkiboeco"
+                },
+                {
+                    name: "Library Genises",
+                    link: "https://libgen.pw"
+                }
+            ]
+        },
+        {
+            name: "Dota 2",
+            icon: "",
+            links: [
+                {
+                    name: "Liquipedia Wiki",
+                    link: "http://wiki.teamliquid.net/dota2/Main_Page"
+                },
+                {
+                    name: "Liquid Dota",
+                    link: "http://www.liquiddota.com/"
+                },
+                {
+                    name: "OpenDota",
+                    link: "https://www.opendota.com/players/226286745"
+                },
+                {
+                    name: "Dota 2 Blog",
+                    link: "http://blog.dota2.com/?l=english"
+                }
+            ]
+        },
+        {
+            name: "FinInfo",
+            links: [
+                {
+                    name: "Standard Bank",
+                    link: "https://experience.standardbank.co.za/#/login"
+                },
+                {
+                    name: "Satrix",
+                    link: "https://www.satrixnow.co.za/"
+                },
+                {
+                    name: "Ice3x",
+                    link: "https://ice3x.com/"
+                }
+            ]
+        },
+        {
+            name: "BT",
+            links: [
+                {
+                    name: "Axxess",
+                    link: "https://www.axxess.co.za/hosting/linux-shared"
+                },
+                {
+                    name: "PhpMyAdmin",
+                    link: "http://localhost:8080/phpmyadmin"
+                },
+                {
+                    name: "Gitlab",
+                    link: "https://gitlab.com/users/sign_in"
+                },
+                {
+                    name: "Barktree",
+                    link: "https://barktree.co.za"
+                },
+                {
+                    name: "DevOps",
+                    link: "https://www.devops.barktree.co.za"
+                }
+            ]
+        }
+    ]
+}
