@@ -29,16 +29,6 @@ export default{
             name: 'Google Drive',
             link: 'https://drive.google.com/drive/my-drive',
             icon: 'fab fa-google-drive fa-2x'
-        },
-        {
-            name: 'Slack',
-            link: 'https://301redirection.slack.com/messages',
-            icon: 'fab fa-slack-hash fa-2x'
-        },
-        {
-            name: 'Google Calendar',
-            link: 'https://calendar.google.com/calendar/b/1/r?tab=wc',
-            icon: 'far fa-calendar-alt fa-2x'
         }
     ]
 }
